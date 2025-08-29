@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mathis (@mathisjs)
 
-<!--
-**mathisjs/mathisjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile 🚀  
+Here you'll find my projects, ideas, and a little bit of my digital universe 💻✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 Currently working on **private projects**
+- 🌱 Learning & experimenting with **JavaScript, TypeScript, React, Node.js and more**
+- 🎯 Goal: Build, share, and collaborate with the community
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mathisjs&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisjs&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,apple,arch,astro,aws,bash,bootstrap,bun,cloudflare,codepen,debian,discord,bots,discordjs,django,docker,electron,express,flask,nginx,nestjs,mysql,mongodb,php,py,prisma,nextjs,html,css,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 📱 [**LilteaGambling**](#) – Work in progress 🛠️  
+
+---
+
+
+✨ *Thanks for stopping by!*  
