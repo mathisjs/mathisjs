@@ -2,7 +2,7 @@ name: Update Public Repos
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
   push:
     branches: [main]
   workflow_dispatch:
