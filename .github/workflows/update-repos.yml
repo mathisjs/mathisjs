@@ -1,0 +1,45 @@
+name: Update Public Repos
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: update-repos
+  cancel-in-progress: true
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch public repos and update repos.json
+        run: |
+          curl -s "https://api.github.com/users/mathisjs/repos?type=public&per_page=100&sort=updated" | \
+          jq '[.[] | {
+            name: .name,
+            description: .description,
+            url: .html_url,
+            homepage: .homepage,
+            stars: .stargazers_count,
+            forks: .forks_count,
+            language: .language,
+            topics: .topics,
+            created_at: .created_at,
+            updated_at: .updated_at,
+            pushed_at: .pushed_at
+          }] | sort_by(.stars) | reverse' > repos.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add repos.json
+          git diff --staged --quiet || git commit -m "Update repos.json"
+          git push
