@@ -52,19 +52,6 @@
     "pushed_at": "2025-08-29T22:19:35Z"
   },
   {
-    "name": "TwitterAutoRefresh",
-    "description": "wtf elon has just put a rate limit, this script will not bypass the rate limit but auto refresh for you until it works",
-    "url": "https://github.com/mathisjs/TwitterAutoRefresh",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "language": "JavaScript",
-    "topics": [],
-    "created_at": "2023-07-02T02:20:36Z",
-    "updated_at": "2025-08-29T22:20:07Z",
-    "pushed_at": "2025-08-29T22:20:04Z"
-  },
-  {
     "name": "n-status-gmod",
     "description": null,
     "url": "https://github.com/mathisjs/n-status-gmod",
@@ -165,7 +152,7 @@
     "language": null,
     "topics": [],
     "created_at": "2025-08-29T22:29:55Z",
-    "updated_at": "2025-12-06T13:48:46Z",
-    "pushed_at": "2025-12-06T13:48:42Z"
+    "updated_at": "2025-12-06T13:58:28Z",
+    "pushed_at": "2025-12-06T13:58:25Z"
   }
 ]
