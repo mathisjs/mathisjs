@@ -79,15 +79,15 @@
   },
   {
     "name": "workshop_viewer",
-    "description": "Inspect your mounted Workshop addons without leaving GMod.",
+    "description": "Inspect your mounted Workshop addons without leaving GMod",
     "url": "https://github.com/mathisjs/workshop_viewer",
-    "homepage": null,
+    "homepage": "",
     "stars": 1,
     "forks": 0,
     "language": "Lua",
     "topics": [],
     "created_at": "2025-11-12T03:59:34Z",
-    "updated_at": "2025-11-23T13:58:42Z",
+    "updated_at": "2025-12-06T13:35:21Z",
     "pushed_at": "2025-11-23T13:58:38Z"
   },
   {
@@ -165,7 +165,7 @@
     "language": null,
     "topics": [],
     "created_at": "2025-08-29T22:29:55Z",
-    "updated_at": "2025-12-06T13:33:17Z",
-    "pushed_at": "2025-12-06T13:33:14Z"
+    "updated_at": "2025-12-06T13:34:25Z",
+    "pushed_at": "2025-12-06T13:34:22Z"
   }
 ]
