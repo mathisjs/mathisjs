@@ -1,16 +1,68 @@
 [
   {
+    "name": "mathisjs",
+    "description": null,
+    "url": "https://github.com/mathisjs/mathisjs",
+    "homepage": null,
+    "stars": 7,
+    "forks": 0,
+    "language": null,
+    "topics": [],
+    "created_at": "2025-08-29T22:29:55Z",
+    "updated_at": "2025-12-21T04:33:08Z",
+    "pushed_at": "2025-12-20T06:19:30Z"
+  },
+  {
     "name": "workshop-stalker",
     "description": "Simple code pour surveiller les updates de certains addons du workshop",
     "url": "https://github.com/mathisjs/workshop-stalker",
     "homepage": null,
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "language": "JavaScript",
     "topics": [],
     "created_at": "2024-11-11T12:55:38Z",
-    "updated_at": "2024-11-11T13:17:28Z",
+    "updated_at": "2025-12-20T10:40:08Z",
     "pushed_at": "2024-11-11T13:12:44Z"
+  },
+  {
+    "name": "opensource-together",
+    "description": "Platform that helps developers find the right open-source projects to learn, grow, and contribute",
+    "url": "https://github.com/mathisjs/opensource-together",
+    "homepage": "https://opensource-together.com",
+    "stars": 3,
+    "forks": 0,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-11-26T19:12:49Z",
+    "updated_at": "2025-12-20T23:43:05Z",
+    "pushed_at": "2025-11-26T19:12:52Z"
+  },
+  {
+    "name": "simple-portfolio",
+    "description": "A basic portfolio built in nextjs typescript",
+    "url": "https://github.com/mathisjs/simple-portfolio",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-08-29T23:22:49Z",
+    "updated_at": "2025-12-21T04:33:09Z",
+    "pushed_at": "2025-12-19T18:54:48Z"
+  },
+  {
+    "name": "workshop_viewer",
+    "description": "Inspect your mounted Workshop addons without leaving GMod",
+    "url": "https://github.com/mathisjs/workshop_viewer",
+    "homepage": "",
+    "stars": 2,
+    "forks": 0,
+    "language": "Lua",
+    "topics": [],
+    "created_at": "2025-11-12T03:59:34Z",
+    "updated_at": "2025-12-21T04:33:11Z",
+    "pushed_at": "2025-11-23T13:58:38Z"
   },
   {
     "name": "n-status-gmod",
@@ -26,30 +78,17 @@
     "pushed_at": "2024-11-10T12:01:25Z"
   },
   {
-    "name": "workshop_viewer",
-    "description": "Inspect your mounted Workshop addons without leaving GMod",
-    "url": "https://github.com/mathisjs/workshop_viewer",
-    "homepage": "",
-    "stars": 1,
-    "forks": 0,
-    "language": "Lua",
-    "topics": [],
-    "created_at": "2025-11-12T03:59:34Z",
-    "updated_at": "2025-12-06T13:35:21Z",
-    "pushed_at": "2025-11-23T13:58:38Z"
-  },
-  {
-    "name": "mathisjs",
+    "name": "chama",
     "description": null,
-    "url": "https://github.com/mathisjs/mathisjs",
+    "url": "https://github.com/mathisjs/chama",
     "homepage": null,
     "stars": 1,
     "forks": 0,
-    "language": null,
+    "language": "TypeScript",
     "topics": [],
-    "created_at": "2025-08-29T22:29:55Z",
-    "updated_at": "2025-12-20T05:01:35Z",
-    "pushed_at": "2025-12-19T06:21:02Z"
+    "created_at": "2025-10-07T21:36:32Z",
+    "updated_at": "2025-12-21T04:33:12Z",
+    "pushed_at": "2025-10-09T09:51:46Z"
   },
   {
     "name": "register",
@@ -63,44 +102,5 @@
     "created_at": "2025-10-07T21:28:05Z",
     "updated_at": "2025-10-07T21:28:05Z",
     "pushed_at": "2025-10-07T21:30:05Z"
-  },
-  {
-    "name": "chama",
-    "description": null,
-    "url": "https://github.com/mathisjs/chama",
-    "homepage": null,
-    "stars": 0,
-    "forks": 0,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-10-07T21:36:32Z",
-    "updated_at": "2025-10-09T09:51:49Z",
-    "pushed_at": "2025-10-09T09:51:46Z"
-  },
-  {
-    "name": "opensource-together",
-    "description": "Platform that helps developers find the right open-source projects to learn, grow, and contribute",
-    "url": "https://github.com/mathisjs/opensource-together",
-    "homepage": "https://opensource-together.com",
-    "stars": 0,
-    "forks": 0,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-11-26T19:12:49Z",
-    "updated_at": "2025-11-26T19:12:57Z",
-    "pushed_at": "2025-11-26T19:12:52Z"
-  },
-  {
-    "name": "simple-portfolio",
-    "description": "A basic portfolio built in nextjs typescript",
-    "url": "https://github.com/mathisjs/simple-portfolio",
-    "homepage": null,
-    "stars": 0,
-    "forks": 0,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-08-29T23:22:49Z",
-    "updated_at": "2025-12-19T18:54:52Z",
-    "pushed_at": "2025-12-19T18:54:48Z"
   }
 ]
