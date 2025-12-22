@@ -4,13 +4,26 @@
     "description": null,
     "url": "https://github.com/mathisjs/mathisjs",
     "homepage": null,
-    "stars": 7,
-    "forks": 0,
+    "stars": 9,
+    "forks": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-08-29T22:29:55Z",
-    "updated_at": "2025-12-21T04:33:08Z",
-    "pushed_at": "2025-12-20T06:19:30Z"
+    "updated_at": "2025-12-22T00:47:06Z",
+    "pushed_at": "2025-12-21T06:19:43Z"
+  },
+  {
+    "name": "opensource-together",
+    "description": "Platform that helps developers find the right open-source projects to learn, grow, and contribute",
+    "url": "https://github.com/mathisjs/opensource-together",
+    "homepage": "https://opensource-together.com",
+    "stars": 4,
+    "forks": 0,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-11-26T19:12:49Z",
+    "updated_at": "2025-12-21T09:56:20Z",
+    "pushed_at": "2025-11-26T19:12:52Z"
   },
   {
     "name": "workshop-stalker",
@@ -24,19 +37,6 @@
     "created_at": "2024-11-11T12:55:38Z",
     "updated_at": "2025-12-20T10:40:08Z",
     "pushed_at": "2024-11-11T13:12:44Z"
-  },
-  {
-    "name": "opensource-together",
-    "description": "Platform that helps developers find the right open-source projects to learn, grow, and contribute",
-    "url": "https://github.com/mathisjs/opensource-together",
-    "homepage": "https://opensource-together.com",
-    "stars": 3,
-    "forks": 0,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-11-26T19:12:49Z",
-    "updated_at": "2025-12-20T23:43:05Z",
-    "pushed_at": "2025-11-26T19:12:52Z"
   },
   {
     "name": "simple-portfolio",
@@ -100,7 +100,7 @@
     "language": null,
     "topics": [],
     "created_at": "2025-10-07T21:28:05Z",
-    "updated_at": "2025-10-07T21:28:05Z",
+    "updated_at": "2025-12-21T18:12:47Z",
     "pushed_at": "2025-10-07T21:30:05Z"
   }
 ]
