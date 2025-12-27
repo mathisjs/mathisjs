@@ -9,8 +9,8 @@
     "language": null,
     "topics": [],
     "created_at": "2025-08-29T22:29:55Z",
-    "updated_at": "2025-12-25T15:21:28Z",
-    "pushed_at": "2025-12-25T06:21:20Z"
+    "updated_at": "2025-12-26T06:21:06Z",
+    "pushed_at": "2025-12-26T06:21:03Z"
   },
   {
     "name": "opensource-together",
@@ -65,6 +65,19 @@
     "pushed_at": "2025-11-23T13:58:38Z"
   },
   {
+    "name": "cookie-clicker",
+    "description": null,
+    "url": "https://github.com/mathisjs/cookie-clicker",
+    "homepage": null,
+    "stars": 2,
+    "forks": 0,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-12-25T15:32:54Z",
+    "updated_at": "2025-12-26T18:55:12Z",
+    "pushed_at": "2025-12-25T15:34:38Z"
+  },
+  {
     "name": "n-status-gmod",
     "description": null,
     "url": "https://github.com/mathisjs/n-status-gmod",
@@ -89,19 +102,6 @@
     "created_at": "2025-10-07T21:36:32Z",
     "updated_at": "2025-12-21T04:33:12Z",
     "pushed_at": "2025-10-09T09:51:46Z"
-  },
-  {
-    "name": "cookie-clicker",
-    "description": null,
-    "url": "https://github.com/mathisjs/cookie-clicker",
-    "homepage": null,
-    "stars": 1,
-    "forks": 0,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-12-25T15:32:54Z",
-    "updated_at": "2025-12-25T15:39:46Z",
-    "pushed_at": "2025-12-25T15:34:38Z"
   },
   {
     "name": "register",
