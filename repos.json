@@ -9,20 +9,20 @@
     "language": null,
     "topics": [],
     "created_at": "2025-08-29T22:29:55Z",
-    "updated_at": "2025-12-31T06:21:55Z",
-    "pushed_at": "2025-12-31T06:21:52Z"
+    "updated_at": "2026-01-01T06:21:54Z",
+    "pushed_at": "2026-01-01T06:21:51Z"
   },
   {
     "name": "simple-portfolio",
     "description": "A basic portfolio built in nextjs typescript",
     "url": "https://github.com/mathisjs/simple-portfolio",
     "homepage": null,
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-08-29T23:22:49Z",
-    "updated_at": "2026-01-01T00:34:28Z",
+    "updated_at": "2026-01-01T12:34:41Z",
     "pushed_at": "2025-12-19T18:54:48Z"
   },
   {
@@ -37,6 +37,19 @@
     "created_at": "2025-11-26T19:12:49Z",
     "updated_at": "2025-12-21T09:56:20Z",
     "pushed_at": "2025-11-26T19:12:52Z"
+  },
+  {
+    "name": "cookie-clicker",
+    "description": "A fun terminal-based Cookie Clicker game.",
+    "url": "https://github.com/mathisjs/cookie-clicker",
+    "homepage": "https://www.npmjs.com/package/cookie-clicker-cli",
+    "stars": 4,
+    "forks": 0,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2025-12-25T15:32:54Z",
+    "updated_at": "2026-01-01T12:39:28Z",
+    "pushed_at": "2025-12-27T13:34:09Z"
   },
   {
     "name": "workshop-stalker",
@@ -63,19 +76,6 @@
     "created_at": "2025-11-12T03:59:34Z",
     "updated_at": "2025-12-27T09:09:04Z",
     "pushed_at": "2025-11-23T13:58:38Z"
-  },
-  {
-    "name": "cookie-clicker",
-    "description": "A fun terminal-based Cookie Clicker game.",
-    "url": "https://github.com/mathisjs/cookie-clicker",
-    "homepage": "https://www.npmjs.com/package/cookie-clicker-cli",
-    "stars": 3,
-    "forks": 0,
-    "language": "TypeScript",
-    "topics": [],
-    "created_at": "2025-12-25T15:32:54Z",
-    "updated_at": "2025-12-30T10:13:04Z",
-    "pushed_at": "2025-12-27T13:34:09Z"
   },
   {
     "name": "chama",
