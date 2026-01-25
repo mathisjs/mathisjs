@@ -4,13 +4,13 @@
     "description": null,
     "url": "https://github.com/mathisjs/mathisjs",
     "homepage": null,
-    "stars": 12,
+    "stars": 11,
     "forks": 1,
     "language": null,
     "topics": [],
     "created_at": "2025-08-29T22:29:55Z",
-    "updated_at": "2026-01-23T06:22:17Z",
-    "pushed_at": "2026-01-23T06:22:13Z"
+    "updated_at": "2026-01-25T05:32:55Z",
+    "pushed_at": "2026-01-24T06:20:25Z"
   },
   {
     "name": "simple-portfolio",
@@ -30,12 +30,12 @@
     "description": "A fun terminal-based Cookie Clicker game.",
     "url": "https://github.com/mathisjs/cookie-clicker",
     "homepage": "https://www.npmjs.com/package/cookie-clicker-cli",
-    "stars": 7,
+    "stars": 6,
     "forks": 0,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2025-12-25T15:32:54Z",
-    "updated_at": "2026-01-19T19:45:44Z",
+    "updated_at": "2026-01-25T05:32:54Z",
     "pushed_at": "2025-12-27T13:34:09Z"
   },
   {
