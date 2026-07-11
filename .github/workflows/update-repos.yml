@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch public repos and update repos.json
         run: |
-          curl -s "https://api.github.com/users/mathisjs/repos?type=public&per_page=100&sort=updated" | \
+          curl -s "https://api.github.com/users/mathis1M/repos?type=public&per_page=100&sort=updated" | \
           jq '[.[] | {
             name: .name,
             description: .description,
