@@ -23,7 +23,7 @@ jobs:
       - name: Regenerate profile images
         run: python main.py
         env:
-          TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
 
       - name: Commit updated images
         run: |
